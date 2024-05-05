@@ -1,0 +1,173 @@
+@media screen and (max-width: 1400px) {
+    .card-discografia .card-body {
+        display: block;
+    }
+
+    .card-discografia .card-body div {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .div-content-btn-plataforma {
+        width: 33% !important;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    .bottom-footer-sm {
+        display: none !important;
+    }
+}
+
+@media screen and (max-width: 1399px) {
+    .bottom-footer {
+        display: none !important;
+    }
+
+    .info-sponsor-footer {
+        text-align: left;
+        margin-top: 15px;
+    }
+
+    .bottom-footer-sm {
+        margin-top: 20px;
+        padding-top: 20px;
+    }
+
+    .menu-footer-sm {
+    }
+}
+
+@media screen and (min-width: 1271px) {
+    .navbar-brand {
+        position: relative;
+        left: -96px;
+    }
+
+    .nav-item.opc-menu {
+        padding: 0px 14px;
+    }
+}
+
+@media screen and (max-width: 1199px) {
+    .form-newsletter {
+        margin-left: 300px;
+    }
+}
+
+@media screen and (max-width: 1062px) {
+    .listado-de-fechas ul li {
+        font-size: 15px;
+    }
+
+    .btn-comprar-tickets {
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    #navbar {
+        margin-top: 16px;
+    }
+
+    #borde-idioma::before {
+        display: none;
+    }
+
+    .link-navbar-home {
+        margin-left: 0px;
+    }
+
+    #borde-idioma {
+        padding-left: 0px;
+    }
+
+    .navbar-nav .nav-link.active::after {
+        display: none;
+    }
+
+    .navbar-nav.navbar-nav-redes {
+        flex-direction: row;
+    }
+
+    .navbar-nav.navbar-nav-redes li {
+        margin: 1px 14px;
+    }
+
+    .nav-item-instagram {
+        margin-left: 0px !important;
+    }
+
+    .form-newsletter {
+        margin-left: 155px;
+    }
+}
+
+@media screen and (max-width: 870px) {
+    .carousel-item-1 {
+        background: url("../../images/ysy-a-banner-huracan-movil.jpg") no-repeat center;
+        background-size: cover;
+    }
+    .carousel-item-5 {
+        background: url("../../images/ysy-a-huracan-01.jpg") no-repeat center;
+        background-size: cover;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .form-newsletter {
+        margin-left: 0px;
+    }
+
+    .form-newsletter h5 {
+        text-align: left;
+    }
+
+    #optin-XxQ31GZd #optin-form-XxQ31GZd .p-body {
+        padding-left: 0px;
+    }
+
+    .div-newsletter-footer {
+        margin-top: 46px;
+    }
+    .botonera-discografica {
+        margin-left: 4px;
+    }
+}
+
+@media screen and (min-width: 576px) {
+    .line-container,
+    .line {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .listado-de-fechas ul li {
+        border: none;
+        text-align: center;
+    }
+
+    #shows ul {
+        margin-bottom: 30px;
+    }
+}
+
+@media screen and (max-width: 520px) {
+    .p-layout-inline .p-inline-fields {
+        display: grid !important;
+        grid-template-columns: 1fr !important;
+        gap: 0 !important;
+    }
+
+    #optin-XxQ31GZd .p-submit {
+        grid-column: 1 !important;
+        margin-left: 0 !important;
+    }
+}
+
+
+@media screen and (max-width: 477px) {
+    h2 {
+        text-align: center;
+    }
+}
