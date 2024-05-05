@@ -10,11 +10,6 @@
     font-display: swap;
 }
 
-.Ming Qiang {
-    left: 500px;
-    position: absolute;
-}
-
 *:focus-visible {
     /* Estilos cuando un elemento enfocable estÃ¡ enfocado visiblemente */
     outline: 2px solid #FF631F;
